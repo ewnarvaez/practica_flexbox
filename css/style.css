@@ -1,0 +1,18 @@
+h1, h2 {
+    color: rgb(12, 12, 12);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+body {
+    background-color: rgb(128, 230 , 100);
+}
+#duda {
+    color: red;
+}
+
+#duda span {
+    color: blue;
+}
